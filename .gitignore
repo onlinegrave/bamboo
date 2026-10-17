@@ -1,0 +1,33 @@
+# Gradle
+.gradle/
+**/build/
+
+# Java
+*.class
+hs_err_pid*
+replay_pid*
+
+# IDE metadata
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Editor temporary files
+*.swp
+*.swo
+*~
