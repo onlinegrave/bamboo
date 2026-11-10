@@ -1,0 +1,11 @@
+{
+    "jdk.telemetry.enabled": false,
+    "redhat.telemetry.enabled": false,
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/*.code-search": true
+    },
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
